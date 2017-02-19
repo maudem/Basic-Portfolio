@@ -1,0 +1,18 @@
+
+.foliopic{
+
+	margin: 10px;
+	width: 50px;
+	height: 25px;
+	float: left;
+
+	position: static;
+
+	z-index: 1;
+}
+
+.pictext{
+	float:left;
+	position: relative;
+	z-index: 2;
+}
